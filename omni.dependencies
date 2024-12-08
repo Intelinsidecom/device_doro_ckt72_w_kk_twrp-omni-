@@ -1,0 +1,8 @@
+[
+  {
+    "remote":"omnirom",
+    "repository": "vendor_doro_ckt72_w_kk",
+    "target_path": "vendor/Doro/ckt72_w_kk",
+    "revision":"stock"
+  }
+]
